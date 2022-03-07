@@ -31,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaduttam95&show_icons=true&locale=en&theme=onedark" alt="yaduttam95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95&theme=onedark" alt="yaduttam95" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements&theme=onedark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank&theme=onedark" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java&theme=onedark" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_programming_By-Yaduttam&theme=onedark" />
+</p>
