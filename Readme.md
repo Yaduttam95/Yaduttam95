@@ -32,9 +32,9 @@
 <!-- &theme=onedark -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95" alt="yaduttam95" /></p>
 <h3 align="left">Pinned Repos:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements&theme=onedark" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank&theme=onedark" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java&theme=onedark" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_programming_By-Yaduttam&theme=onedark" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_programming_By-Yaduttam" />
 </p>
 <p>Made by Yaduttam with 💖</p>
