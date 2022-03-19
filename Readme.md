@@ -38,3 +38,8 @@
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_programming_By-Yaduttam" />
 </p>
 
+<p align="center">
+    <a href="https://visitor-badge.glitch.me/">
+      <img align="center" src="https://page-views.glitch.me/badge?page_id=Yaduttam95.Yaduttam95">
+    </a>
+  </p>
