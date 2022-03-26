@@ -33,9 +33,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue?)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95)
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaduttam95&show_icons=true&locale=en" alt="yaduttam95" /></p>
-<!-- &theme=onedark -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95" alt="yaduttam95" /></p>
 
 ---
