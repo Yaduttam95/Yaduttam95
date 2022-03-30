@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yaduttampareek95@gmail.com**
 
-- ⚡ Fun fact **I admire to become like BARRY ALLEN(THE FLASH)**
+- ⚡ Fun fact **When i code only i and god knows whats happening but when the code runs only god knows whats happening 😂😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
