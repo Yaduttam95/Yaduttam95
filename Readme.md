@@ -38,11 +38,12 @@
 
 ---
 <h3 align="left">Pinned Repos:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" />
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_programming_By-Yaduttam" />
+<p><a href="https://github.com/Yaduttam95/Achievements"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" /></a>
+   <a href="https://github.com/Yaduttam95/Hackerrank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" /></a>
+   <a href="https://github.com/Yaduttam95/Java"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" /></a>
+   <a href="https://github.com/Yaduttam95/C_box"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_box" /></a>
 </p>
+
 <p align="center">
     <a href="https://visitor-badge.glitch.me/">
       <img align="center" src="https://page-views.glitch.me/badge?page_id=Yaduttam95.Yaduttam95">
