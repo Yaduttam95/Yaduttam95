@@ -38,10 +38,10 @@
 
 ---
 <h3 align="left">Pinned Repos:</h3>
-<p><a href="https://github.com/Yaduttam95/Achievements"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" /></a>
-   <a href="https://github.com/Yaduttam95/Hackerrank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" /></a>
-   <a href="https://github.com/Yaduttam95/Java"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" /></a>
-   <a href="https://github.com/Yaduttam95/C_box"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_box" /></a>
+<p><a href="https://github.com/Yaduttam95/Achievements" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" /></a>
+   <a href="https://github.com/Yaduttam95/Hackerrank" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" /></a>
+   <a href="https://github.com/Yaduttam95/Java" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" /></a>
+   <a href="https://github.com/Yaduttam95/C_box" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_box" /></a>
 </p>
 
 <p align="center">
