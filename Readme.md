@@ -22,7 +22,7 @@
 <a href="https://codeforces.com/profile/yaduttampareek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yaduttampareek" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@yaduttam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yaduttam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yaduttampareek95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yaduttampareek95" height="30" width="40" /></a>
-<a href="https://discord.gg/NzrtSgscUP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NzrtSgscUP" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/NzrtSgscUP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NzrtSgscUP" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
