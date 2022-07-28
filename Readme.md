@@ -32,8 +32,12 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue?)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaduttam95&show_icons=true&locale=en" alt="yaduttam95" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95" alt="yaduttam95" /></p>
+<table>
+   <tr>
+      <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaduttam95&show_icons=true&locale=en" alt="yaduttam95" /></p></td>
+      <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95" alt="yaduttam95" /></p></td>
+   </tr>
+</table>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Yaduttam95&theme=react-dark" alt="yaduttam95" /></p>
 
 
