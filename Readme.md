@@ -34,6 +34,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaduttam95&show_icons=true&locale=en" alt="yaduttam95" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95" alt="yaduttam95" /></p>
+[![Yaduttam95's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Yaduttam95&theme=xcode)](https://git.io/Yaduttam95)
 
 ---
 <h3 align="left">Pinned Repos:</h3>
