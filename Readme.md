@@ -4,13 +4,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="yaduttam95" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **C, C++, DSA**
+- 💬 Ask me about **C, C++, DSA, JAVA, Google Cloud**
 
 - 📫 How to reach me **yaduttampareek95@gmail.com**
 
-- ⚡ Fun fact **When i code only i and god knows whats happening but when, the code runs only god knows whats happening**
+- ⚡ Fun fact **When i code only i and god knows whats happening but when, the code runs only god knows whats happening 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,13 +31,16 @@
 <!-- [![Sparkline](https://stars.medv.io/Yaduttam95/Yaduttam95.svg)](https://stars.medv.io/Yaduttam95/Yaduttam95) -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue?)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95)
+
 <table>
    <tr>
-      <td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaduttam95&show_icons=true&locale=en" alt="yaduttam95" /></p></td>
-      <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95" alt="yaduttam95" /></p></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=Yaduttam95&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Yaduttam Pareek" />
+         <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95&theme=dark" alt="yaduttam95" /></td>
    </tr>
 </table>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yaduttam95" /></p>
+   </div>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Yaduttam95&theme=react-dark" alt="yaduttam95" /></p>
 
 
