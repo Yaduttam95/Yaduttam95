@@ -1,16 +1,16 @@
-![Header_Image](/headerimage.png)
+<p align="center"> <img src="/headerimage.png" alt="yaduttam95" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaduttam95&label=Profile%20views&color=0e75b6&style=flat" alt="yaduttam95" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="yaduttam95" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning ```Flutter```
 
-- 💬 Ask me about **C, C++, DSA, JAVA, Google Cloud**
+- 💬 Ask me about ```C, C++, DSA, JAVA, Google Cloud```
 
-- 📫 How to reach me **yaduttampareek95@gmail.com**
+- 📫 How to reach me ```yaduttampareek95@gmail.com```
 
-- ⚡ Fun fact **When i code only i and god knows whats happening but when, the code runs only god knows whats happening 😅**
+- ⚡ Fun fact ```When i code only i and god knows whats happening but when, the code runs only god knows whats happening 😅```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
