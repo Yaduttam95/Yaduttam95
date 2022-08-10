@@ -1,4 +1,4 @@
-![Header_Image](/header.png)
+![Header_Image](/headerimage.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaduttam95&label=Profile%20views&color=0e75b6&style=flat" alt="yaduttam95" /> </p>
 
