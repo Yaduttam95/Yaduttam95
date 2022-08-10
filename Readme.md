@@ -1,4 +1,4 @@
-<p align="center"> <img src="/headerimage1.png" alt="yaduttam95" /> </p>
+<p align="center"> <img src="/github-header-image.png" alt="yaduttam95" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaduttam95&label=Profile%20views&color=0e75b6&style=flat" alt="yaduttam95" /> </p>
 
