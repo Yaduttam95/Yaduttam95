@@ -47,12 +47,30 @@
 
 
 ---
-<h3 align="left">Pinned Repos:</h3>
-<p><a href="https://github.com/Yaduttam95/Achievements" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" /></a>
-   <a href="https://github.com/Yaduttam95/Hackerrank" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" /></a>
-   <a href="https://github.com/Yaduttam95/Java" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" /></a>
-   <a href="https://github.com/Yaduttam95/C_box" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_box" /></a>
-</p>
+
+<h3 align="left">All Repos:</h3>
+<table>
+   <tr>
+      <td><a href="https://github.com/Yaduttam95/Achievements" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/Hackerrank" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/Java" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" /></a></td>
+   </tr>
+   <tr>
+      <td><a href="https://github.com/Yaduttam95/C_box" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_box" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/C" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/Golden-Hour" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Golden-Hour" /></a></td>
+   </tr>
+   <tr>
+      <td><a href="https://github.com/Yaduttam95/Python-Box" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Python-Box" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/Training_Managaement" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Training_Managaement" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/Flutter-Mart" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Flutter-Mart" /></a></td>
+   </tr>
+   <tr>
+      <td><a href="https://github.com/Yaduttam95/HackerRank-Solutions" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=HackerRank-Solutions" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/Codechef_Questions" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Codechef_Questions" /></a></td>
+      <td><a href="https://github.com/Yaduttam95/Yaduttam95" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Yaduttam95" /></a></td>
+   </tr>
+</table>
 
 <p align="center">
     <a href="https://github.com/Yaduttam95">
