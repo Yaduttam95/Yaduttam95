@@ -43,10 +43,7 @@
    </div>
 <p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Yaduttam95&theme=react-dark" alt="yaduttam95" /></p>
 
-
----
-
-<h3 align="left">All Repos:</h3>
+<!--<h3 align="left">All Repos:</h3>
 <table>
    <tr>
       <td><a href="https://github.com/Yaduttam95/Achievements" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" /></a></td>
@@ -68,7 +65,7 @@
       <td><a href="https://github.com/Yaduttam95/Codechef_Questions" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Codechef_Questions" /></a></td>
       <td><a href="https://github.com/Yaduttam95/Yaduttam95" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Yaduttam95" /></a></td>
    </tr>
-</table>
+</table>-->
 
 <!--<p align="center">
     <a href="https://github.com/Yaduttam95">
