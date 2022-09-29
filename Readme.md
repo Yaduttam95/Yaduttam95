@@ -38,9 +38,6 @@
          <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95&theme=dark&line_height=23" alt="yaduttam95" /></td>
    </tr>
 </table>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95&theme=light&line_height=23" alt="yaduttam95" />
-
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yaduttam95" /></p>
    </div>
