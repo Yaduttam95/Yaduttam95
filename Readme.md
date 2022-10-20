@@ -33,7 +33,30 @@
 <img align="center" src="https://readme-jokes.vercel.app/api?theme=vue?" alt="yaduttam95" />
 </div>
 -->
-
+```
+        \           HELLO           /
+         \                         /
+          \     WELCOME TO MY     /
+           ]    GITHUB WORLD!    [    ,'|
+           ]                     [   /  |
+           ]___               ___[ ,'   |
+           ]  ]\             /[  [ |:   |
+           ]  ] \           / [  [ |:   |
+           ]  ]  ]         [  [  [ |:   |
+           ]  ]  ]__     __[  [  [ |:   |
+           ]  ]  ] ]\ _ /[ [  [  [ |:   |
+           ]  ]  ] ] (#) [ [  [  [ :===='
+           ]  ]  ]_].nHn.[_[  [  [
+           ]  ]  ]  HHHHH. [  [  [
+           ]  ] /   `HH("N  \ [  [
+           ]__]/     HHH  "  \[__[
+           ]         NNN         [
+           ]         N/"         [
+           ]         N H         [
+          /          N            \
+         /           q,            \
+        /                           \
+```
 <table>
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Yaduttam95&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Yaduttam Pareek" />
