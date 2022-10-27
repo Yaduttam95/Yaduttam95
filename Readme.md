@@ -2,6 +2,8 @@
 
 <p align="center"> <a href="https://holopin.io/@yaduttam95"><kbd><img src="https://holopin.me/yaduttam95" alt="yaduttam95" /></kbd></a> </p>
 
+<p align="center"> <!--<a href ="https://komarev.com/ghpvc/?username=Yaduttam95&label=PROFILE+VIEWS"> <img src ="https://komarev.com/ghpvc/?username=Yaduttam95&label=PROFILE+VIEWS" alt="yaduttam95">-->  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Yaduttam95?label=Followers&style=social"></p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="yaduttam95" /></kbd></a> </p>
 
 - 🌱 I’m currently learning ```Flutter```
@@ -67,34 +69,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yaduttam95" /></p>
    </div>
 <p><kbd><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Yaduttam95&theme=react-dark" alt="yaduttam95" /></kbd></p>
-
-<!--<h3 align="left">All Repos:</h3>
-<table>
-   <tr>
-      <td><a href="https://github.com/Yaduttam95/Achievements" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Achievements" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/Hackerrank" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Hackerrank" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/Java" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Java" /></a></td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/Yaduttam95/C_box" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C_box" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/C" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=C" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/Golden-Hour" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Golden-Hour" /></a></td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/Yaduttam95/Python-Box" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Python-Box" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/Training_Managaement" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Training_Managaement" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/Flutter-Mart" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Flutter-Mart" /></a></td>
-   </tr>
-   <tr>
-      <td><a href="https://github.com/Yaduttam95/HackerRank-Solutions" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=HackerRank-Solutions" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/Codechef_Questions" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Codechef_Questions" /></a></td>
-      <td><a href="https://github.com/Yaduttam95/Yaduttam95" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yaduttam95&repo=Yaduttam95" /></a></td>
-   </tr>
-</table>-->
-
-<!--<p align="center">
-    <a href="https://github.com/Yaduttam95">
-      <img align="center" src="https://page-views.glitch.me/badge?page_id=Yaduttam95.Yaduttam95">
-    </a>
-  </p>
-  <p align="center">-->
