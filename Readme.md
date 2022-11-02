@@ -9,7 +9,7 @@
     <tr>
       <td>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="yaduttam95" /></kbd></a></td>
-      <td><a href="https://dev.to/yaduttam95"><kbd><img src="https://github.com/Yaduttam95/Yaduttam95/blob/37b78638bcd94ce22b88e55c6e29e1dc8025a37b/HBadge.png" alt="yaduttam95" width="540" height="170" /></kbd></a></td>
+      <td><a href="https://dev.to/yaduttam95"><kbd><img src="https://github.com/Yaduttam95/Yaduttam95/blob/37b78638bcd94ce22b88e55c6e29e1dc8025a37b/HBadge.png" alt="yaduttam95" width="170" height="170" /></kbd></a></td>
   </table>
 </p>
 
