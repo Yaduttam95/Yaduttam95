@@ -77,4 +77,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yaduttam95" /></p>
    </div>
 
-<p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95"></kbd></p>
+<p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95&theme="react-dark"></kbd></p>
