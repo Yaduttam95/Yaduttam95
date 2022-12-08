@@ -43,8 +43,6 @@
 </div>
 -->
 
-[![Yaduttam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaduttam95)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -54,9 +52,11 @@
       <td><img src="https://github-readme-stats.vercel.app/api?username=Yaduttam95&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Yaduttam Pareek" />
          <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95&theme=dark&line_height=23" alt="yaduttam95" /></td>
    </tr>
+<tr>
+  <td>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yaduttam95" width="500" height="150"/></p>
+    </td>
+  <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=yaduttam95" width="500" height="150"></td>
+  </tr>
 </table>
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yaduttam95" /></p>
-   </div>
-
 <p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95&theme=react-dark"></kbd></p>
