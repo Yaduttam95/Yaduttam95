@@ -43,32 +43,10 @@
 </div>
 -->
 
-```
-      \           HELLO           /
-       \                         /
-        \     WELCOME TO MY     /
-         ]    GITHUB WORLD!    [    ,'|
-         ]                     [   /  |
-         ]___               ___[ ,'   |
-         ]  ]\             /[  [ |:   |
-         ]  ] \           / [  [ |:   |
-         ]  ]  ]         [  [  [ |:   |
-         ]  ]  ]__     __[  [  [ |:   |
-         ]  ]  ] ]\ _ /[ [  [  [ |:   |
-         ]  ]  ] ] (#) [ [  [  [ :===='
-         ]  ]  ]_].nHn.[_[  [  [
-         ]  ]  ]  HHHHH. [  [  [
-         ]  ] /   `HH("N  \ [  [
-         ]__]/     HHH  "  \[__[
-         ]         NNN         [
-         ]         N/"         [
-         ]         N H         [
-        /          N            \
-       /           q,            \
-      /                           \
-```
+[![Yaduttam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yaduttam95)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <table>
