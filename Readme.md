@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://holopin.io/@yaduttam95"><kbd><img src="https://holopin.me/yaduttam95" alt="yaduttam95" /></kbd></a> </p>
 
-<p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Yaduttam95?label=Followers&style=social"></p>
+<p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Yaduttam95?label=Followers&style=social"> <img alt="WakaTime" src="https://wakatime.com/badge/user/0b9a96bb-9797-462f-995c-51496524b4fc.svg"></p>
 
 <p align="center">
   <table>
