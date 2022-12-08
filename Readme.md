@@ -67,6 +67,10 @@
        /           q,            \
       /                           \
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <table>
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Yaduttam95&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Yaduttam Pareek" />
