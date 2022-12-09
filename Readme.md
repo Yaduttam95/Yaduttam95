@@ -45,6 +45,16 @@
 
 <!--START_SECTION:waka-->
 
+```text
+From: 06 December 2022 - To: 07 December 2022
+
+Total Time: 57 mins
+
+Java     33 mins         >>>>>>>>>>>>>>>----------   58.45 %
+Python   21 mins         >>>>>>>>>----------------   37.71 %
+Other    2 mins          >------------------------   03.84 %
+```
+
 <!--END_SECTION:waka-->
 
 <table>
