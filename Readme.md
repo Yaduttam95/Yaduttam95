@@ -13,7 +13,7 @@
   </table>
 </p>
 
-- 🌱 I’m currently learning ```Flutter```
+- 🌱 I’m currently learning ```Android```
 
 - 💬 Ask me about ```C, C++, DSA, JAVA, Google Cloud```
 
