@@ -1,20 +1,30 @@
 <p align="center"> <kbd><img src="/header.png" alt="yaduttam95" /></kbd> </p>
 
-<!--<p align="center"> <a href="https://holopin.io/@yaduttam95"><kbd><img src="https://holopin.me/yaduttam95" alt="yaduttam95" /></kbd></a> </p>-->
 
 <p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Yaduttam95?label=Followers&style=social"> <img alt="WakaTime" src="https://wakatime.com/badge/user/0b9a96bb-9797-462f-995c-51496524b4fc.svg"></p>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="yaduttam95" /></kbd></a></td>
-</p>
+<a href="https://app.daily.dev/YoichiIsagi" target="_blank">
+    <img
+      width="400"
+      align="right"
+      src="https://api.daily.dev/devcards/31a52d600afd40079f0f38cf1dbaeecb.png?r=j8u"
+    />
+  </a>
 
+<div align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=4&margin-w=15&margin-h=15" alt="yaduttam95" /></kbd></a>
+</div>
+
+<div align="left">
+    
 - 🌱 I’m currently learning ```Android```
 
-- 💬 Ask me about ```C, C++, DSA, JAVA, Google Cloud```
+- 💬 Ask me about ```C, C++, DSA, JAVA, Google Cloud, Flutter```
 
 - 📫 How to reach me ```yaduttampareek95@gmail.com```
 
 - ⚡ Fun fact ```When i code only i and god knows whats happening but when, the code runs only god knows whats happening 😅```
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,12 +41,6 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></kbd> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></kbd> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></kbd> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></kbd> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></kbd> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></kbd> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/></kbd> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/></kbd> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/></kbd> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/></kbd> </a>  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></kbd> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <kbd><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/></kbd> </a> </p>
 
 ---
-<!-- [![Sparkline](https://stars.medv.io/Yaduttam95/Yaduttam95.svg)](https://stars.medv.io/Yaduttam95/Yaduttam95)
-
-<div align="center">
-<img align="center" src="https://readme-jokes.vercel.app/api?theme=vue?" alt="yaduttam95" />
-</div>
--->
 
 <!--START_SECTION:waka-->
 
@@ -60,11 +64,6 @@ Dart             31 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
       <td><img src="https://github-readme-stats.vercel.app/api?username=Yaduttam95&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Yaduttam Pareek" />
          <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95&theme=dark&line_height=23" alt="yaduttam95" /></td>
    </tr>
-<tr>
-  <td>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaduttam95&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="yaduttam95" width="500" height="150"/></p>
-    </td>
-  <td><img src="https://wakatime.com/share/@yaduttam95/4b1ab3f2-2b69-45bd-af50-49b8358d6ae7.svg" height="150"></td>
-  </tr>
 </table>
+<img src="https://wakatime.com/share/@yaduttam95/7648dc2c-45a0-4b76-8635-be448eba2e37.svg" width="100%">
 <p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95&theme=react-dark"></kbd></p>
