@@ -5,7 +5,7 @@
 
 <a href="https://app.daily.dev/YoichiIsagi" target="_blank">
     <img
-      width="400"
+      width="350"
       align="right"
       src="https://api.daily.dev/devcards/31a52d600afd40079f0f38cf1dbaeecb.png?r=j8u"
     />
