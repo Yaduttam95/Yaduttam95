@@ -46,9 +46,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 30 March 2023
+From: 06 December 2022 - To: 31 March 2023
 
-Total Time: 85 hrs 4 mins
+Total Time: 85 hrs 5 mins
 
 Java             58 hrs 32 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.81 %
 XML              10 hrs 14 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.04 %
