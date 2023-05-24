@@ -69,4 +69,4 @@ Python           2 hrs 2 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
    </tr>
 </table>
 <img src="https://wakatime.com/share/@yaduttam95/7648dc2c-45a0-4b76-8635-be448eba2e37.svg" width="100%">
-<p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95&theme=react-dark"></kbd></p>
+<!-- <p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95&theme=react-dark"></kbd></p> -->
