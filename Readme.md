@@ -61,12 +61,12 @@ Python           2 hrs 2 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ```
 
 <!--END_SECTION:waka-->
-<!-- 
-<table>
+
+<!-- <table>
    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=Yaduttam95&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=1363DF&icon_color=47B5FF&text_color=DFF6FF&bg_color=0,000000,130F40" alt="Yaduttam Pareek" />
          <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaduttam95&theme=dark&line_height=23" alt="yaduttam95" /></td>
    </tr>
-</table> -->
+</table>
 <img src="https://wakatime.com/share/@yaduttam95/7648dc2c-45a0-4b76-8635-be448eba2e37.svg" width="100%">
-<!-- <p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95&theme=react-dark"></kbd></p> -->
+<p><kbd><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Yaduttam95&theme=react-dark"></kbd></p> -->
