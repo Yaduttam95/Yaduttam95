@@ -1,6 +1,5 @@
 <div align="center"> <img src="/header.gif" alt="yaduttam95" /> </div>
-
-
+<br>
 <p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Yaduttam95?label=Followers&style=social"> <img alt="WakaTime" src="https://wakatime.com/badge/user/0b9a96bb-9797-462f-995c-51496524b4fc.svg"></p>
 <!-- 
 <a href="https://app.daily.dev/YoichiIsagi" target="_blank">
