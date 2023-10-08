@@ -11,7 +11,7 @@
   </a> -->
 
 <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=9&margin-w=15&margin-h=15" alt="yaduttam95" /></kbd></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=5&margin-w=15&margin-h=15" alt="yaduttam95" /></kbd></a>
 </div>
 <!-- 
 <div align="left"> -->
