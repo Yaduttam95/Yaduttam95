@@ -56,7 +56,7 @@ Python                 3 hrs 7 mins    🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/yaduttam95/yaduttam95/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Yaduttam95/Yaduttam95/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <table>
    <tr>
