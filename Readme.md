@@ -16,9 +16,9 @@
 <!-- 
 <div align="left"> -->
     
-- 🌱 I’m currently learning ```Android```
+- 🌱 I’m currently learning ```JS```
 
-- 💬 Ask me about ```C, C++, DSA, JAVA, Google Cloud, Flutter```
+- 💬 Ask me about ```C, C++, DSA, JAVA, Flutter, Android Native```
 
 - 📫 How to reach me ```yaduttampareek95@gmail.com```
 
