@@ -95,9 +95,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2022 - To: 30 May 2025
+From: 06 December 2022 - To: 31 May 2025
 
-Total Time: 763 hrs 6 mins
+Total Time: 763 hrs 9 mins
 
 TypeScript             373 hrs 25 mins 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   48.93 %
 Java                   151 hrs 25 mins 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.84 %
