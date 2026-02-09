@@ -1,20 +1,6 @@
 <div align="center"> <img src="/header.gif" alt="yaduttam95" /> </div>
 <br>
 <p align="center"> <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Yaduttam95?label=Followers&style=social"> <img alt="WakaTime" src="https://wakatime.com/badge/user/0b9a96bb-9797-462f-995c-51496524b4fc.svg"></p>
-<!-- 
-<a href="https://app.daily.dev/YoichiIsagi" target="_blank">
-    <img
-      width="320"
-      align="right"
-      src="https://api.daily.dev/devcards/31a52d600afd40079f0f38cf1dbaeecb.png?r=yxt"
-    />
-  </a> -->
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><kbd><img src="https://github-profile-trophy.vercel.app/?username=yaduttam95&theme=onedark&row=10&column=5&margin-w=15&margin-h=15" alt="yaduttam95" /></kbd></a>
-</div>
-<!-- 
-<div align="left"> -->
     
 - 🌱 I’m currently learning ```JS```
 
